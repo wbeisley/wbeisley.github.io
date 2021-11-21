@@ -2636,10 +2636,6 @@ input, select, textarea {
 			display: block;
 			margin: 4rem 0;
 			width: 100%;
-			position: absolute;
-  			top: 50%;
-  			left: 50%;
-  			transform: translate(-50%, -50%);
 		}
 
 			.image.main:first-child {
@@ -2652,6 +2648,7 @@ input, select, textarea {
   				margin-right: auto;
 				width: 50%;
 			}
+			
 
 		@media screen and (max-width: 736px) {
 
